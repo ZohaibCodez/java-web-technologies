@@ -122,14 +122,14 @@ The course is split into two halves.
 
 ## 🗂️ Repository Structure
 
-This is the planned layout. Folders are added as each lab, assignment or project is completed.
+Folders are added as each lab, assignment or project is completed. Items marked (planned) don't exist yet.
 
 ```
 java-web-technologies/
-├── 📁 docs/                  # syllabus, notes and resources
+├── 📁 docs/                  # syllabus, notes and resources (planned)
 ├── 📁 labs/
-│   ├── 📁 lab-01-<topic>/
-│   ├── 📁 lab-02-<topic>/
+│   ├── 📁 lab-01-employee-hierarchy/
+│   ├── 📁 lab-02-<topic>/    # (planned)
 │   └── ...
 ├── 📁 assignments/
 │   └── 📁 assignment-01-<topic>/
@@ -166,19 +166,20 @@ Each lab documents its own run steps in its `README.md`. Core Java labs can be c
 
 ## 🗺️ Progress
 
-| Part | Topic | Status |
-|------|-------|--------|
-| 1 | OOP, abstract classes and interfaces | 📅 Planned |
-| 1 | Packages and streams | 📅 Planned |
-| 1 | Multithreading | 📅 Planned |
-| 1 | Exception handling | 📅 Planned |
-| 1 | TCP/IP multi-threaded chat application | 📅 Planned |
-| 1 | JDBC | 📅 Planned |
-| 2 | HTML, CSS and JavaScript | 📅 Planned |
-| 2 | Servlets: request, response, database | 📅 Planned |
-| 2 | State management: URL rewriting, cookies, sessions | 📅 Planned |
-| 2 | JSP | 📅 Planned |
-| 2 | MVC enterprise application | 📅 Planned |
+| Part | Topic | Status | Work |
+|------|-------|--------|------|
+| 1 | OOP: inheritance and polymorphism | ✅ Done | [Lab 01: Employee Hierarchy](labs/lab-01-employee-hierarchy/) |
+| 1 | Abstract classes and interfaces | 📅 Planned | |
+| 1 | Packages and streams | 📅 Planned | |
+| 1 | Multithreading | 📅 Planned | |
+| 1 | Exception handling | 📅 Planned | |
+| 1 | TCP/IP multi-threaded chat application | 📅 Planned | |
+| 1 | JDBC | 📅 Planned | |
+| 2 | HTML, CSS and JavaScript | 📅 Planned | |
+| 2 | Servlets: request, response, database | 📅 Planned | |
+| 2 | State management: URL rewriting, cookies, sessions | 📅 Planned | |
+| 2 | JSP | 📅 Planned | |
+| 2 | MVC enterprise application | 📅 Planned | |
 
 Status key: 📅 Planned • 🚧 In progress • ✅ Done
 

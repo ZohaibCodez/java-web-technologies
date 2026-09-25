@@ -1,0 +1,43 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Maven / Gradle
+target/
+!.mvn/wrapper/maven-wrapper.jar
+build/
+.gradle/
+
+# Tomcat / local server output
+logs/
+work/
+temp/
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+nbproject/
+out/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local config (commit *.example files instead)
+.env
+*.env
+config.properties
+db.properties
+application-local.properties
+
+# Word temp files
+~$*
