@@ -129,7 +129,8 @@ java-web-technologies/
 ├── 📁 docs/                  # syllabus, notes and resources (planned)
 ├── 📁 labs/
 │   ├── 📁 lab-01-employee-hierarchy/
-│   ├── 📁 lab-02-<topic>/    # (planned)
+│   ├── 📁 lab-02-car-showroom/
+│   ├── 📁 lab-03-<topic>/    # (planned)
 │   └── ...
 ├── 📁 assignments/
 │   └── 📁 assignment-01-<topic>/
@@ -170,7 +171,8 @@ Each lab documents its own run steps in its `README.md`. Core Java labs can be c
 |------|-------|--------|------|
 | 1 | OOP: inheritance and polymorphism | ✅ Done | [Lab 01: Employee Hierarchy](labs/lab-01-employee-hierarchy/) |
 | 1 | Abstract classes and interfaces | 📅 Planned | |
-| 1 | Packages and streams | 📅 Planned | |
+| 1 | Packages | ✅ Done | [Lab 02: Car Showroom](labs/Lab_02/) |
+| 1 | Streams | 📅 Planned | |
 | 1 | Multithreading | 📅 Planned | |
 | 1 | Exception handling | 📅 Planned | |
 | 1 | TCP/IP multi-threaded chat application | 📅 Planned | |
